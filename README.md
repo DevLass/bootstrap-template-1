@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, i'm Nich, and this is my Simple and Responsive Page</h1>
+<h1 align="center"> Hey there, i'm Nich, and this is Responsive Page with Bootstrap</h1>
  
 <p align="center">
   <img src="https://github.com/italicnich/bootstrap-template-1/blob/main/readmeimg/img-gif.gif" alt="Page Preview">
@@ -18,6 +18,10 @@ After that let me show you the result: I've done other sites like this but I hav
 </p>
 
 <h3 align="justify"> <i>I swore it would be more work than just putting in the colors, but variables really make development easier.</i> </h3>
+ 
+ <p align="center">
+  <img src="https://github.com/italicnich/bootstrap-template-1/blob/main/readmeimg/fullpage.png" alt="Page Preview" width="900">
+</p>
  
 <h3 align="justify">
 Thanks for reading, see you soon
