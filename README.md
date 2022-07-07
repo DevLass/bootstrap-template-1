@@ -16,7 +16,7 @@
   <img src="https://github.com/italicnich/bootstrap-template-1/blob/main/readmeimg/code-1.png" alt="Code Preview" width="500">
 </p>
 
-<h3 align="justify"> <i>In general, this is a simple project, I already knew about bootstrap but I needed to present it in some on my Github. In the future I would like to make it functional, with login page, Q&A and Know More. See the full project below, or on my Github Pages</i> </h3>
+<h3 align="justify"> <i>In general, this is a simple project, I already knew about bootstrap but I needed to present it in some on my Github. In the future I would like to make it functional, with login page, Q&A and Know More. See the full project below, or on my <a href="https://italicnich.github.io/bootstrap-template-1/"> Github Pages </a>. </i> </h3>
  
  <p align="center">
   <img src="https://github.com/italicnich/bootstrap-template-1/blob/main/readmeimg/fullpagepreview.png" alt="Page Preview" width="900">
